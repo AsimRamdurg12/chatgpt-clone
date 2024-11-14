@@ -1,3 +1,4 @@
-# Lama Dev AI Chat Bot App Starter Setup
+# ChatGPT Clone App
 
-This template provides a minimal setup to get React 19 working in Vite with HMR and some ESLint rules.
+ **Tech Stack:** React.js, Tailwind CSS, MongoDB, Express.js
+  **API used:** Google Gemini AI
